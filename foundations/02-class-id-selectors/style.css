@@ -2,7 +2,12 @@
     background-color: hsl(0, 100%, 76%);
     font-family: Verdana, 'DejaVu Sans', sans-serif;
 }
+
 #id1 {
     color: #0052cc;
     font-size: 36px;
+}
+
+.cool {
+    font-size: 24px;
 }
